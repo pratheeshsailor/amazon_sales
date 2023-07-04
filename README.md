@@ -53,9 +53,14 @@ Amazon Dataset which contains the many attributes of almost 51290s costumers and
 
 
 # The Insights
-How the sales of Amazon will increase on the basis of day by day ,month by month and year by year
-What are the patterns which the customers follow
-How the sales get hight on the week days and the festivals.
-What are the need of the customers in the current time
-What short of things the industry should do for getting the more interest in the product by the customer
-Finding The main thing , Understanding the need of the customer and providing the reliable product and generating the more revenue.
+1) How the sales of Amazon will increase on the basis of day by day ,month by month and year by year
+
+2) What are the patterns which the customers follow
+
+3) How the sales get hight on the week days and the festivals.
+
+4) What are the need of the customers in the current time
+
+5) What short of things the industry should do for getting the more interest in the product by the customer
+
+6) Finding The main thing , Understanding the need of the customer and providing the reliable product and generating the more revenue.
