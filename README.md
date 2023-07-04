@@ -1,4 +1,4 @@
-# amazon_sales
+# Amazon_sales
 Exploratory Data Analytics  case study on "Analysis of Amazon Sales"
 # Dataset information
 Amazon Dataset which contains the many attributes of almost 51290s costumers and this dataset is hosted on Kaggle. The dataset contains 51290 rows and 24 columns variables. 
