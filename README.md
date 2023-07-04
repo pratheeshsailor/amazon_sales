@@ -1,6 +1,7 @@
 # amazon_sales
 Exploratory Data Analytics  case study on "Analysis of Amazon Sales"
-Dataset information
+# Dataset information
+Amazon Dataset which contains the many attributes of almost 51290s costumers and this dataset is hosted on Kaggle. The dataset contains 51290 rows and 24 columns variables. 
 'Row ID' - This is the row id at which number the order get placed
 
 'Order ID' - This the order id of the order
@@ -41,6 +42,7 @@ Dataset information
 
 'Quantity' - How many products are placed
 
+
 'Discount' - What is the discount is get by the customer
 
 'Profit' - This is the profit that is get by the company
@@ -48,3 +50,12 @@ Dataset information
 'Shipping Cost' - This is the shipping cost that is charged to the customer
 
 'Order Priority' - These are the priority for the time taken by the delivary ['Medium', 'High', 'Critical', 'Low']
+
+
+# The Insights
+How the sales of Amazon will increase on the basis of day by day ,month by month and year by year
+What are the patterns which the customers follow
+How the sales get hight on the week days and the festivals.
+What are the need of the customers in the current time
+What short of things the industry should do for getting the more interest in the product by the customer
+Finding The main thing , Understanding the need of the customer and providing the reliable product and generating the more revenue.
