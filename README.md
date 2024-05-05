@@ -1,4 +1,4 @@
-# Amazon_sales
+<img width="614" alt="amazon power bi" src="https://github.com/pratheeshsailor/amazon_sales/assets/116364415/bbc4db21-e2f8-4279-80bf-fae1e0672d0a"># Amazon_sales
 Exploratory Data Analytics  case study on "Analysis of Amazon Sales"
 # Dataset information
 Amazon Dataset which contains the many attributes of almost 51290s costumers and this dataset is hosted on Kaggle. The dataset contains 51290 rows and 24 columns variables. 
@@ -64,3 +64,5 @@ Amazon Dataset which contains the many attributes of almost 51290s costumers and
 5) What short of things the industry should do for getting the more interest in the product by the customer
 
 6) Finding The main thing , Understanding the need of the customer and providing the reliable product and generating the more revenue.
+
+<img width="614" alt="amazon power bi" src="https://github.com/pratheeshsailor/amazon_sales/assets/116364415/99639b9c-2d97-4434-9745-c16204428006">
