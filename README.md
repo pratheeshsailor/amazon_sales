@@ -52,6 +52,7 @@ Amazon Dataset which contains the many attributes of almost 51290s costumers and
 'Order Priority' - These are the priority for the time taken by the delivary ['Medium', 'High', 'Critical', 'Low']
 
 <img width="614" alt="amazon power bi" src="https://github.com/pratheeshsailor/amazon_sales/assets/116364415/bbc4db21-e2f8-4279-80bf-fae1e0672d0a">
+
 # The Insights
 1) How the sales of Amazon will increase on the basis of day by day ,month by month and year by year
 
