@@ -66,4 +66,3 @@ Amazon Dataset which contains the many attributes of almost 51290s costumers and
 
 6) Finding The main thing , Understanding the need of the customer and providing the reliable product and generating the more revenue.
 
-<img width="614" alt="amazon power bi" src="https://github.com/pratheeshsailor/amazon_sales/assets/116364415/99639b9c-2d97-4434-9745-c16204428006">
